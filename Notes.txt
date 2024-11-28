@@ -1,0 +1,107 @@
+---------- IF YOU WANT TO CHECK THIS CODE -----------------
+          -> Download Carla Package
+          -> Put the code files inside :- \CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples
+
+
+
+CarlaUE4 --quality-level=Low
+cd pythonAPI\examples\
+cd ..\..
+python config.py --map Town05
+python dynamic_weather.py --speed 10
+activate (env_name)
+conda create -n (name of your environment) python==3.7 -y
+new environment name =carla_ai
+Carla.VehicleLightState.----------- is used to control the lights of a car.
+
+MLP is Multi Lair Perceptron Classifier
+model.fit is a function that helps in attaching in model
+
+Vehicle Data Store in CSV:
+Each data can be accessed by using the index, and each column has a particular index
+
+What is a sequential dataset?
+The data which is easily readable in sequential manner. This dataset is known as sequential dataset.
+
+point_cloud_data , it's a variable which stores a memory location of the image and image's details.
+
+Obj represents objact tag on which our laser beams have hit.
+
+Radio waves are defined as electromagnetic waves.
+
+debug method, we can draw an output on the CARLA simulator. In our case, we want to see the radar output as dots.
+
+Data gathering basically means collecting, measuring, and analyzing accurate data.
+
+Pandas library is used to read the csv files.
+
+ReLu is "Rectified Linear Unit"
+
+⭐ What is Deep Learning?
+Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling.
+
+⭐ Numerical data : Data which contain numbers
+Categorical data : Data which contain mixed type of data such as numbers, text
+Time series data : Data which contain time
+Text data : Data which contain text
+
+⭐ .depth is used for distance between 2 objects
+.altitude is height of object from ground
+.intensity is for speed of object
+
+⭐ Pitch - Pitch defines the up-and-down rotation. 
+Yaw - Yaw defines the right-and-left rotation.
+Roll - Roll defines zoom in and zoom out rotation.
+
+Wavelength: A combination of two waves on each magnetic and electric field is
+known as wavelength.
+
+yaw means angle of rotation
+
+LIDAR (Light Detection And Ranging)  is stated as a Light Detection and Ranging device which emits lasers to understand the surroundings
+
+⭐ Threading, we can call a function continuously in a particular interval of time.
+There are 3 things we can do:
+● Stop a thread.
+● Start a thread.
+● Sleep a thread
+
+DIRECTIONS : 
++Y represent straight
+- Y represent back
++X represent left side
+-X represent right side
++Z represent up side
+-Z represent down side
+
+world.get_actors() is used to take data of all the actors.
+
+⭐ Lambda:- (var): fun(var)
+
+⭐ Distance :-math.sqrt(x**2 +y**2+z**2)
+
+Machine learning is an application of AI (Artificial Intelligence) where we give data to machines and then let the machine use that data to learn for themselves.
+
+time.sleep(mil) is used to give a interval of time.
+
+sort() function and the sorted() are similar to each other. They sort a given list.
+
+Rotation(pitch=0.000000, yaw=0.855823, roll=0.000000)
+
+reshaping means taking the useful data and taking out unwanted data from the matrix.
+
+cv2.waitkey() is used to wait for some time.
+
+carla.VehicleLightState .Reverse .LeftBlinker .LowBeam .Interior
+
+Electromagnetic waves can transmit energy. In a radar sensor, these waves are very
+useful to make driving decisions. 
+
+Wavelength: A combination of two waves on each magnetic and electric field is
+known as wavelength.
+
+A PyQt5 library supports mayavi to create a GUI. Using PyQt, mayavi is able to showcase a window for visualization.
+
+Mayavi: - A Mayavi library is a data visualizer which provides GUI to show 2D and 3D models. Using mayavi, we can visualize data just like matplotlib (which we already used while we were in the data visualization phase). But mayavi contains many new features such as visualization of 3D diagrams, and saving these visualizations in image format, which support the ability to run visualized data in real time
+
+password :- Wp$30121978
